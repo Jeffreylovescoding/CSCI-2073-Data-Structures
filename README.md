@@ -1,2 +1,3 @@
-# CSCI-2073-Data-Structures
-Programs I created in my Data Structures class, all garnering grades of high Bs or As.
+# CSCI Programming Projects
+
+Programs I created in my programming classes up to and through Data Structures
